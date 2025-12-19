@@ -4,7 +4,7 @@ const TOKEN = '7960673905:AAEXFC-QtWIDq3sXgzx2d_9LXz-udSf1jII';
 const link = 'https://weather-app-ayaz.netlify.app/';
 const portfolioLink = 'https://ayaz-damirov-portfolio.netlify.app/'; 
 const linkedinLink = 'https://www.linkedin.com/in/ayaz-damirov-39b633223/'; 
-const API_KEY = '90a27bd0a80b8df6cc9d363dbeceed1f';
+const API_KEY = 'Your Api key';
 const bot = new Telegraf(TOKEN);
 
 const fetchWeather = async (city) => {

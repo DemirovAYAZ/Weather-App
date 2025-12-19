@@ -12,7 +12,7 @@ const App = () => {
 
   // const API_KEY = import.meta.env.VITE_API_KEY;
 
-  const API_KEY = '90a27bd0a80b8df6cc9d363dbeceed1f'
+  const API_KEY = 'Your Api key'
 
   const iconMap = {
     '01d': WeatherIcons.ClearDayIcon,
